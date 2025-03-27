@@ -1,0 +1,11 @@
+body{
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(14, 85, 14);
+    color: white;
+}
+
+#meucanvas{
+    border: 2px solid white;
+    background-color: rgb(12, 143, 12);
+}
